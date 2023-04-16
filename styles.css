@@ -1,0 +1,6 @@
+
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background: linear-gradient(90deg, rgba(0,223,252,1) 0%, rgba(87,94,208,1) 30%, rgba(167,91,251,1) 100%);
+}
